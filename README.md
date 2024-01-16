@@ -7,6 +7,7 @@ From backend development using Java and C#, I am <strong>eager to explore new la
 #### Main Stack:
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center"  height="30" width="40" src="https://svgshare.com/i/122p.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
@@ -24,6 +25,7 @@ From backend development using Java and C#, I am <strong>eager to explore new la
 #### Workstation Tools:
   <div> <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/122J.svg">  
   </div>
   
 ## Contacts:
